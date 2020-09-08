@@ -1,0 +1,3 @@
+# jetpack 天气小应用
+
+- 技术栈: navigation、viewModel、liveData、litepal、gson、glide、rretrofit2 ...

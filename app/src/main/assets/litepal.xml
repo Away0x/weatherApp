@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.away0x.weather.app.data.model.place.Province" />
+        <mapping class="com.away0x.weather.app.data.model.place.City" />
+        <mapping class="com.away0x.weather.app.data.model.place.County" />
+    </list>
+    <storage value="external" />
+</litepal>
